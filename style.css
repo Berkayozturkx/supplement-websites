@@ -1,0 +1,29 @@
+h1 {
+    color: #f5b62e;
+    font-size: 36px;
+}
+
+h2 {
+    color: #5799b1;
+}
+
+h3 {
+    color: chocolate;
+}
+
+header {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+ul,ol {
+    list-style-position: inside;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
